@@ -1,0 +1,21 @@
+_repo: Judische-Sprichworter_54248
+_version: 0.0.1
+creator:
+  author: &id001
+    agent_name: Landsberger, Artur
+    gutenberg_agent_id: '47785'
+    url: http://www.gutenberg.org/2009/agents/47785
+  editor: *id001
+description: ''
+gutenberg_issued: '2017-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54248'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Jüdische Sprichwörter
+url: http://www.gutenberg.org/ebooks/54248
